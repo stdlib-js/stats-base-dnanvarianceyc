@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-06)
+## Unreleased (2025-02-22)
+
+<section class="features">
+
+### Features
+
+-   [`ecfa20e`](https://github.com/stdlib-js/stdlib/commit/ecfa20ee5474b4908861770b6ea4ddb04dacbdf9) - add C ndarray interface and refactor implementation for `stats/base/dnanvarianceyc` [(#4852)](https://github.com/stdlib-js/stdlib/pull/4852)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`ecfa20e`](https://github.com/stdlib-js/stdlib/commit/ecfa20ee5474b4908861770b6ea4ddb04dacbdf9) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dnanvarianceyc` [(#4852)](https://github.com/stdlib-js/stdlib/pull/4852) _(by Prashant Kumar Yadav, Athan Reines)_
 -   [`6f6d429`](https://github.com/stdlib-js/stdlib/commit/6f6d4291fa5a2fcad82ad6c0175ac2b7c92808d9) - **refactor:** update `stats/base/dnanvarianceyc` native addon from C++ to C [(#4535)](https://github.com/stdlib-js/stdlib/pull/4535) _(by Dhruv Arvind Singh)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`9e689ff`](https://github.com/stdlib-js/stdlib/commit/9e689ffcb7c6223afc521f1e574b42f10921cf5e) - **chore:** fix indentation in manifest.json files _(by Philipp Burckhardt)_
@@ -28,11 +39,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Dhruv Arvind Singh
 -   Philipp Burckhardt
+-   Prashant Kumar Yadav
 
 </section>
 
